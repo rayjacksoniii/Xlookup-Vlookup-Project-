@@ -10,4 +10,5 @@ This project analyzes sales data using Excel functions like XLOOKUP and VLOOKUP.
 - Data Visualization
 
 ## Project Visuals
-![Dashboard](Visuals/blank-project.png)
+
+![Dashboard](blank-project.png)
