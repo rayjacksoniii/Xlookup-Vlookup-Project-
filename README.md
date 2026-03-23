@@ -2,4 +2,4 @@
 ## Project Visuals
 
 ## Project Visuals
-![Dashboard](Visuals/your-image-name.png)
+![Project Screenshot](Visuals/Blank%20for%20proj.png)
