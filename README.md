@@ -21,6 +21,6 @@ Created a simple data workflow to make the dataset easier to analyze
 ![Image alt](https://github.com/rayjacksoniii/Ray-Jackson/blob/8a889ea54b8a7235c292b9ed785daabcac06d51b/Visuals/xlookup%20.png)
 
 
-##Summary
+## Summary
 
 This project demonstrates my ability to work with real-world data, apply Excel functions effectively, and present information in a clear and structured way. It reflects my growing skills in data analysis and my ability to turn raw data into useful insights.
